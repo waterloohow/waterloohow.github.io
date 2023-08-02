@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://waterloohow.github.io/sitemap.xml
